@@ -1,11 +1,11 @@
 {
-    "name": "briceton",
-    "short_name": "briceton",
+    "name": "bricethon",
+    "short_name": "bricethon",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "saintbrice",
+    "description": "Gerer les Cartons de Saint-brice",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
